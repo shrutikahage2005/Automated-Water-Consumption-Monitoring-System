@@ -240,7 +240,11 @@ HOD: A. B. Gadicha
 
 👩‍💻 Team
 
-NameRegistration No.Miss Shravani JavanjalAIDSU23020Miss Shrutika HageAIDSU23022Miss Ishwari KalpandeAIDSU23008Miss Anuradha SaganeAIDSU23001Miss Sonal WalivakarAIDSU23024Miss Shreyal YeoleCEU23024
+Miss Shravani Javanjal
+Miss Ishwari Kalpande
+Miss Anuradha Sagane
+Miss Sonal Walivakar
+Miss Shreyal Yeole
 
 
 📜 References
