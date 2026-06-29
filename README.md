@@ -168,7 +168,6 @@ Upload the code → Open Serial Monitor to verify connection
 
 ParameterOutcomeWater Level Detection AccuracyHigh ✅Data Transmission LatencyMinimal (real-time) ✅Pump Auto-ControlWorking ✅Mobile Alert SystemFunctional ✅Remote MonitoringEnabled via Blynk ✅
 
-
 ## 📸 Screenshots
 
 ### 🖥️ Blynk Web Dashboard
@@ -178,17 +177,24 @@ ParameterOutcomeWater Level Detection AccuracyHigh ✅Data Transmission LatencyM
 
 ---
 
-### 📱 Blynk Mobile App
-> Real-time water level displayed on mobile with pump ON/OFF control.
+### 📱 Blynk Mobile App — Device List
+> Mobile home screen showing the Water Level Monitoring System device.
 
-![Mobile App](mobile_app1.png),(mobile_app2.png)
+![Mobile App 1](mobile_app1.jpg)
 
+---
 
-Admin view showing water level gauge (currently at 17/20) and pump toggle switch.
+### 📱 Blynk Mobile App — Live Monitor
+> Real-time water level gauge (17/20) with pump ON/OFF control button.
 
+![Mobile App 2](mobile_app2.jpg)
 
+---
 
-(See Circuit dig.webp in repository)
+### ⚡ Circuit Diagram
+> ESP8266 NodeMCU connected with ultrasonic sensor, relay module, LCD, and LEDs.
+
+![Circuit Diagram](Circuit%20dig.webp)
 
 📱 Blynk Mobile App
 
