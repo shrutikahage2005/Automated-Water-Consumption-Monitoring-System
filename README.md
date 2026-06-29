@@ -240,10 +240,10 @@ HOD: A. B. Gadicha
 
 👩‍💻 Team
 
-Miss Shravani Javanjal
-Miss Ishwari Kalpande
-Miss Anuradha Sagane
-Miss Sonal Walivakar
+Miss Shravani Javanjal And 
+Miss Ishwari Kalpande  And 
+Miss Anuradha Sagane   And
+Miss Sonal Walivakar  And
 Miss Shreyal Yeole
 
 
