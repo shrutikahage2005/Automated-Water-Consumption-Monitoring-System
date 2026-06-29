@@ -169,9 +169,19 @@ Upload the code → Open Serial Monitor to verify connection
 ParameterOutcomeWater Level Detection AccuracyHigh ✅Data Transmission LatencyMinimal (real-time) ✅Pump Auto-ControlWorking ✅Mobile Alert SystemFunctional ✅Remote MonitoringEnabled via Blynk ✅
 
 
-📸 Screenshots
+## 📸 Screenshots
 
-🖥️ Blynk Web Dashboard
+### 🖥️ Blynk Web Dashboard
+> Admin view showing water level gauge (at 17/20) and pump toggle switch.
+
+![Dashboard](dashboard.png)
+
+---
+
+### 📱 Blynk Mobile App
+> Real-time water level displayed on mobile with pump ON/OFF control.
+
+![Mobile App](mobile_app1.png),(mobile_app2.png)
 
 
 Admin view showing water level gauge (currently at 17/20) and pump toggle switch.
